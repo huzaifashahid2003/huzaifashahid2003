@@ -15,7 +15,7 @@ shahidhuzaifa28@gmail.com
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-Large--Language--Models-purple?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)badge&logo=pandas&logoColor=white) ![GitHub]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=huzaifashahid2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
